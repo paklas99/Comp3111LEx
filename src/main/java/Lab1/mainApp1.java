@@ -9,6 +9,7 @@ public class mainApp1 {
         System.out.println("Program started...");
         System.out.println(b + " to power " + n + " = " + myLibrary.power(b,n));
         System.out.println(n + "! = " + myLibrary.factorial(n));
+        System.out.println("Add 2 print lines as report heading");
         System.out.println("Program ..Ended ...");
     }
 }
